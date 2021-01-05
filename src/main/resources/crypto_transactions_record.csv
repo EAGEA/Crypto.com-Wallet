@@ -1,0 +1,20 @@
+Timestamp (UTC),Transaction Description,Currency,Amount,To Currency,To Amount,Native Currency,Native Amount,Native Amount (in USD),Transaction Kind
+2021-01-04 11:49:08,Card Cashback,CRO,2.54572763,,,EUR,0.13,0.1595997,referral_card_cashback
+2021-01-04 07:02:21,CRO -> EUR,CRO,-1694.77,EUR,94.3,EUR,94.3,115.771167,crypto_viban_exchange
+2021-01-04 07:01:41,Supercharger Withdrawal (via app),CRO,1694.77,,,EUR,94.4,115.893936,supercharger_withdrawal
+2021-01-03 22:27:49,Buy ATOM,ATOM,5.0,,,EUR,23.63,29.0103147,crypto_purchase
+2021-01-03 21:42:12,Supercharger Deposit (via app),CRO,-1694.77,,,EUR,-82.14,-100.8424566,supercharger_deposit
+2021-01-03 20:59:46,Buy GRT,GRT,40.0,,,EUR,10.09,12.3873921,crypto_purchase
+2021-01-03 19:43:55,From +33601010101V,ZIL,349.650126019103,,,EUR,19.98,24.5292462,crypto_transfer
+2021-01-03 13:28:33,Crypto Earn Withdrawal,USDC,500.0,,,EUR,403.99,495.9744831,crypto_earn_program_withdrawn
+2021-01-01 15:40:31,EUR -> ETH,EUR,-54.44,ETH,0.09,EUR,54.44,66.8354436,viban_purchase
+2020-12-30 15:36:08,Crypto Earn Deposit,USDC,-500.0,,,EUR,-402.2,-493.776918,crypto_earn_program_created
+2020-12-30 15:33:53,EUR -> USDC,EUR,-412.35,USDC,500.0,EUR,412.35,506.2379715,viban_purchase
+2020-12-30 12:30:18,Card Cashback,CRO,5.131537,,,EUR,0.24,0.2946456,referral_card_cashback
+2020-12-29 17:31:09,Referral Bonus Reward,CRO,438.16821178,,,USD,20.45,20.45,referral_bonus
+2020-08-21 23:10:52,Convert Dust,CRO,1.776311145452668705,,,EUR,0.25,0.3069225,dust_conversion_credited
+2020-08-21 23:10:52,Convert Dust,BAT,-0.78142812,,,EUR,-0.26,-0.3191994,dust_conversion_debited
+2020-08-21 10:34:53,BAT Deposit,BAT,44.78142812,,,EUR,15.48,19.0046412,crypto_deposit
+2020-08-21 07:52:02,Sign-up Bonus Unlocked,CRO,305.0823051,,,USD,50.0,50.0,referral_gift
+2020-08-21 07:51:10,CRO Stake,CRO,-1000.0,,,EUR,-146.51,-179.8688619,lockup_lock
+2020-08-21 07:51:05,Buy CRO,CRO,1000.0,,,EUR,149.37,183.3800553,crypto_purchase
