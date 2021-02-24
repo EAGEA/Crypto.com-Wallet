@@ -1,9 +1,17 @@
-# Crypto Wallet for Crypto.com
-
 [![Generic badge](https://img.shields.io/badge/license-Unlicense-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/version-1.0-red.svg)](https://shields.io/)
 
-Show all your transactions and assets from [Crypto.com](https://crypto.com/) using real time prices.
+<div align="center">
+	<br>
+	<br>
+  <a href="https://crypto.com">
+		<img src="assets/cro.svg" width="200" height="200">
+	</a>	<h1>Cryptocurrency Wallet</h1>
+	<p>
+	<b>Show all your transactions and assets from [Crypto.com](https://crypto.com/) using real time prices.</b>
+	</p>
+	<br>
+</div>
 
 ## Usage
 
@@ -105,10 +113,14 @@ The output contains 7 kinds of tables:
 
 ## Troubleshooting
 
-> _An error happened: You didn't specify API key or it is incorrectly formatted. You should do it in query string parameter `apikey` or in http header named `X-CoinAPI-Key`_
+```console
+An error happened: You didn't specify API key or it is incorrectly formatted. You should do it in query string parameter apikey or in http header named X-CoinAPI-Key
+```
 
-Double check your API key value (`-Dcrypto_com.wallet.coinapi.key`).
+* Double check your API key value (`-Dcrypto_com.wallet.coinapi.key`).
 
-> _Enter the missing XXX/YYY conversion rate:_
+```console
+Enter the missing XXX/YYY conversion rate:
+```
 
-The conversion rate was not found, you have the possibility to type a value and press "Enter". You may also have exceeded your maximum daily API key usage.
+* The conversion rate was not found, you have the possibility to type a value and press "Enter". You may also have exceeded your maximum daily API key usage.
