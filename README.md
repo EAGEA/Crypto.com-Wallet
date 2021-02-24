@@ -4,12 +4,15 @@
 <div align="center">
 	<br>
 	<br>
-  <a href="https://crypto.com">
+  	<a href="https://crypto.com">
 		<img src="assets/cro.svg" width="200" height="200">
-	</a>	<h1>Cryptocurrency Wallet</h1>
+	</a>	
+	<h1>Cryptocurrency Wallet</h1>
 	<p>
 	<b>Show all your transactions and assets from Crypto.com using real time prices.</b>
 	</p>
+	<br>
+	<br>
 	<br>
 </div>
 
