@@ -8,7 +8,7 @@
 		<img src="assets/cro.svg" width="200" height="200">
 	</a>	<h1>Cryptocurrency Wallet</h1>
 	<p>
-	<b>Show all your transactions and assets from [Crypto.com](https://crypto.com/) using real time prices.</b>
+	<b>Show all your transactions and assets from Crypto.com using real time prices.</b>
 	</p>
 	<br>
 </div>
@@ -114,7 +114,8 @@ The output contains 7 kinds of tables:
 ## Troubleshooting
 
 ```console
-An error happened: You didn't specify API key or it is incorrectly formatted. You should do it in query string parameter apikey or in http header named X-CoinAPI-Key
+An error happened: You didn't specify API key or it is incorrectly formatted. 
+You should do it in query string parameter apikey or in http header named X-CoinAPI-Key.
 ```
 
 * Double check your API key value (`-Dcrypto_com.wallet.coinapi.key`).
